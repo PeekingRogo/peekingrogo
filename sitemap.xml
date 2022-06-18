@@ -2,9 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://www.mayg.io/</loc>
-	<lastmod>2022-06-15</lastmod>
+	<lastmod>2022-06-18</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/MAYG%20-%20Mobile.png</image:loc>
+	<image:title>MAYG LOGO with Faded Girlfriend</image:title>
+	</image:image>
 	<image:image>
 	<image:loc>https://www.mayg.io/img/MAYG%20LOGO.svg</image:loc>
 	<image:title>MAYG Logo</image:title>
@@ -100,7 +104,7 @@
 </url>
 <url>
 	<loc>https://www.mayg.io/holding-/</loc>
-	<lastmod>2022-06-15</lastmod>
+	<lastmod>2022-06-18</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
