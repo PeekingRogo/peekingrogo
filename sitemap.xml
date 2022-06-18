@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://www.mayg.io/</loc>
+	<lastmod>2022-06-15</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/MAYG%20LOGO.svg</image:loc>
+	<image:title>MAYG Logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/Gitbook%2032px.svg</image:loc>
+	<image:title>Gitbook 32px</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/MAYG%20LOGO%20with%20Faded%20Girlfriend.png</image:loc>
+	<image:title>MAYG LOGO with Faded Girlfriend</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/MAYG%20Grid%20Preview.png</image:loc>
+	<image:title>app screenshot</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/mayg-browser.png</image:loc>
+	<image:title>app screenshot</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/placeholder-image.png</image:loc>
+	<image:title>...</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/Headshots=Sinjin%20Jung1.jpg</image:loc>
+	<image:title>Headshots=Sinjin Jung1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/Headshots=Stanley%20K%20Kwok1.jpg</image:loc>
+	<image:title>Headshots=Stanley K Kwok1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/Headshots=Lukasz%20Drozdek1.jpg</image:loc>
+	<image:title>Headshots=Lukasz Drozdek1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/Headshots=Danny%20Pisano%20with%20glasses1.jpg</image:loc>
+	<image:title>Headshots=Danny Pisano with glasses1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/Headshots=Steve%20Kim1.jpg</image:loc>
+	<image:title>Headshots=Steve Kim1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/Headshots=Devon%20Veillette1.jpg</image:loc>
+	<image:title>Headshots=Devon Veillette1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/Headshots=Steven%20_Rogo_%20Rogalsky1.jpg</image:loc>
+	<image:title>Headshots=Steven _Rogo_ Rogalsky1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/Headshots=Mauro%20Ruiz1.jpg</image:loc>
+	<image:title>Headshots=Mauro Ruiz1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/Headshots=Vince%20Wang1.jpg</image:loc>
+	<image:title>Headshots=Vince Wang1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/Headshots=John%20Emir%20Buxton1.jpg</image:loc>
+	<image:title>Headshots=John Emir Buxton1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/Headshots=Ivam1.jpg</image:loc>
+	<image:title>Headshots=Ivam1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/Headshots=Regan1.jpg</image:loc>
+	<image:title>Headshots=Regan1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/Headshots=Seung-Chul%20Shin1.jpg</image:loc>
+	<image:title>Headshots=Seung Chul Shin1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/Peeking%20Duck%20iMac.png</image:loc>
+	<image:title>peeking-duck-studios-imac</image:title>
+	</image:image>
+	<video:video>
+	<video:content_loc>https://www.mayg.io/vid/background.mp4</video:content_loc>
+	<video:title>background</video:title>
+	</video:video>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/MAYG%20-%20Twitter%20Post%20-%20Social%20Card%20Preview.jpg</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://www.mayg.io/holding-/</loc>
+	<lastmod>2022-06-15</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/placeholder-image.png</image:loc>
+	<image:title>...</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.mayg.io/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
